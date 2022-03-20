@@ -1,1 +1,3 @@
-This is the text file for writing codes
+This is the text file for writing codes.
+
+/usr/bin/bash: wq: command not found
