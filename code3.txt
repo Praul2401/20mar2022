@@ -1,3 +1,7 @@
 This file is created by user 24 to write code
 There is another change done by user 24
+<<<<<<< HEAD
 This is another change done by user 24 to test this repository
+=======
+This is my October change
+>>>>>>> faf08fa416b411ea1949a666e78e16ce1f0bd052
