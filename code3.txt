@@ -5,3 +5,4 @@ This is another change done by user 24 to test this repository
 =======
 This is my October change
 >>>>>>> faf08fa416b411ea1949a666e78e16ce1f0bd052
+User 24 is making change in row8
